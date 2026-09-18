@@ -273,6 +273,15 @@ theme = "israel"
 sev = 7
 
 [[article]]
+date = "July 19, 2025"
+title = "Google’s Eco-failures: An Environmental Investigation into Alphabet Inc."
+url = "https://noclimateresultsfound.com/wp-content/uploads/2025/07/Kairos_NCRFGoogleReport_FINAL.pdf"
+source = "Kairos"
+summary = "A Kairos investigation into Alphabet’s environmental record finds Google’s reported emissions up 1,515% since 2010 and data centre water use up 340% to 11 billion gallons, and argues its net-zero-by-2030 pledge leans on speculative technologies while it builds AI for Aramco and other oil and gas firms."
+theme = "climate"
+sev = 4
+
+[[article]]
 date = "July 14, 2025"
 title = "Public Sector awarded $200 million contract to accelerate AI and cloud capabilities across Department of Defense’s Chief Digital and Artificial Intelligence Office (CDAO)"
 url = "https://web.archive.org/web/20260623160701/https://cloud.google.com/blog/topics/public-sector/google-public-sector-awarded-200-million-contract-to-accelerate-ai-and-cloud-capabilities-across-department-of-defenses-chief-digital-and-artificial-intelligence-office-cdao"
