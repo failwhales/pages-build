@@ -146,7 +146,7 @@
   <section id="demands" class="section">
     <div class="container">
       <h2 class="section-title">Our Demands</h2>
-      <p class="section-intro section-intro--left">{{ section.extra.demands_intro }}</p>
+      <div class="section-intro section-intro--left">{{ section.extra.demands_intro | markdown | safe }}</div>
       <div class="demands-note">{{ section.extra.demands_note | replace(from="{join_url}", to=section.extra.join_url) | markdown | safe }}</div>
     </div>
 

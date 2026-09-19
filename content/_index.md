@@ -77,7 +77,15 @@ GDM union members want to include demands over **unethical military contracts**,
 **AI Safety / Principles**, and **AI's climate impact**.
 """
 
-demands_intro = "We want a real say on three things: the red lines our technology must never cross, the transparency needed to hold Google to them, and the energy that powers it all."
+demands_intro = """
+Responsible development requires honestly confronting the risks that widespread,
+unregulated integration of AI into society poses, risks that intensify as we deploy
+increasingly autonomous, agentic systems with potential access to sensitive domains such
+as critical infrastructure, military systems, financial systems, and civilian data.
+
+To mitigate such risks and make sure our technology is used to benefit humanity, we
+demand:
+"""
 
 # Sits directly under demands_intro, above the three cards. `{join_url}` is
 # swapped for extra.join_url by the template.
